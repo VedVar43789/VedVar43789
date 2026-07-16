@@ -1,6 +1,6 @@
 # Vedant Vardhaan
 
-**AI Systems Engineer · Agentic AI and Multi-Agent Systems · prev PwC · President @ CSES OpenSource **
+**AI Systems Engineer · Agentic AI and Multi-Agent Systems · prev PwC · President @ CSES OpenSource**
 
 I build production grade agentic AI systems and machine learning pipelines that ship. Data Science and Finance at UC San Diego, graduating June 2027. Currently CTO at UniCircle and an Applied AI Research Assistant at the UCSD STSlab (under CSE professor Deepak Kumar).
 
