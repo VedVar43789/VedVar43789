@@ -12,7 +12,7 @@ I build production grade agentic AI systems and machine learning pipelines that 
 ### Highlights
 - **PwC India:** As Technology Consultant Intern, built a LangGraph and Gemini 2.5 Pro multi-agent system for cloud provisioning, cutting setup time 60 percent across 15+ AWS and Azure services
 - **CSES Open Source:** President for academic year 2026-27, leading a 100 member engineering organization at UCSD's only Open Source student org. Previously, led full stack project TritonSpend, as an Engineering Manager.
-- **Data SCience Student Society (DS3):** Associate Projects Director and **4x DS3 Best Project winner** among 10 team across TubeScope (FA25), PantryPal (FA25), InvasiveWatch (WI26), and TumorSense (SP26).
+- **Data Science Student Society (DS3):** Associate Projects Director and **4x DS3 Best Project winner** among 10 team across TubeScope (FA25), PantryPal (FA25), InvasiveWatch (WI26), and TumorSense (SP26).
 - **IIT Guwahati:** CNN research on SAR image classification model, under professor Hanumant Singh Shekhawat.
 
 ### Tech
