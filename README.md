@@ -31,8 +31,4 @@ I build production grade agentic AI systems and machine learning pipelines that 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vedantvardhaan23.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vvardhaan@ucsd.edu)
 
-<sub>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VedVar43789&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=graywhite)
-
-</sub>
