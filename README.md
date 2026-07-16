@@ -11,8 +11,8 @@ I build production grade agentic AI systems and machine learning pipelines that 
 
 ### Highlights
 - **PwC India:** built a LangGraph and Gemini 2.5 Pro multi-agent system for cloud provisioning, cutting setup time 60 percent across 15+ AWS and Azure services
-- **TumorSense:** dual SVM and CNN/ViT diagnostic model, 98 percent malignant recall and 0.995 ROC-AUC, with SHAP and RAG explainability
-- **InvasiveWatch:** species identification over 96K+ classes via FAISS retrieval, 83.4 percent recall, delivered as a deployed app
+- **CSES Open Source:** President elect for 2026 to 2027, rising from Software Engineer to Engineering Manager, leading open source projects for the UCSD community
+- **DS3:** Associate Projects Director and four time DS3 Best Project winner across TubeScope, PantryPal, InvasiveWatch, and TumorSense
 - **IIT Guwahati:** CNN research on SAR image classification, first author paper in progress
 
 ### Tech
@@ -31,4 +31,8 @@ I build production grade agentic AI systems and machine learning pipelines that 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vedantvardhaan23.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vvardhaan@ucsd.edu)
 
+<sub>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VedVar43789&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=graywhite)
+
+</sub>
