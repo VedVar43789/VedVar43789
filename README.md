@@ -2,7 +2,7 @@
 
 **AI Systems Engineer · Agentic AI and Multi-Agent Systems · prev PwC · President @ CSES OpenSource**
 
-I build production grade agentic AI systems and machine learning pipelines that ship. Data Science and Finance at UC San Diego, graduating June 2027. Currently CTO at UniCircle and an Applied AI Research Assistant at the UCSD STSlab (under CSE professor Deepak Kumar).
+I build production grade agentic AI systems and machine learning pipelines that ship. Data Science and Finance at UC San Diego, graduating June 2027. Currently AI Engineer at Oaken, CTO at UniCircle and an Applied AI Research Assistant at the UCSD STSlab (under CSE professor Deepak Kumar).
 
 ### What I work on
 - **Agentic AI:** multi-agent orchestration with LangGraph, tool calling, and LLM reasoning
